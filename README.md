@@ -7,17 +7,8 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-#### GitHub Stats:
-<p align="center">
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmxad&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-  </span>
-  <span>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=ahmxad&theme=gotham&hide_border=false" height="150" />
-  </span>
 </p>
 
 #### Socials:
