@@ -32,7 +32,7 @@
 
 
 #### 📊 GitHub Stats:
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ahmxad&layout=compact&hide_title=true&langs_count=20&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=ahmxad&layout=compact&hide_title=true&langs_count=20&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ahmxad&layout=compact&hide_title=true&langs_count=20&theme=dark&v=4)](https://github.com/ahmxad)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/axxhmad)
