@@ -1,6 +1,16 @@
 ## Muhammad Ahmad
 
-### 💻 Tech Stack:
+
+<img align="right" width="150" src="https://github.com/user-attachments/assets/449f4349-4b5d-48a8-a6ce-4c2353e3deee" alt="CEH Badge" />
+
+| ***Who am I?*** |
+|:--|
+| ![FullStack Developer](https://img.shields.io/badge/FullStack%20Developer-4169E1?style=for-the-badge) |
+| ![Designer](https://img.shields.io/badge/Designer-C11C84?style=for-the-badge) |
+| ![Certified Ethical Hacker](https://img.shields.io/badge/Certified%20Ethical%20Hacker-FF0000?style=for-the-badge) |
+| ![QuickBooks Bookkeeper](https://img.shields.io/badge/QuickBooks%20Bookkeeper-008000?style=for-the-badge) |
+
+## 💻 Tech Stack:
 #### Frontend:
 ![htmx](https://img.shields.io/badge/htmx-%233366CC.svg?style=flat-square&logo=htmx&logoColor=white)
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black)
@@ -31,10 +41,11 @@
 ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-%231D99F3.svg?style=flat-square&logo=kdeplasma&logoColor=white)
 
 
-#### 📊 GitHub Stats:
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ahmxad&layout=compact&hide_title=true&langs_count=20&theme=dark&v=4)](https://github.com/ahmxad)
+### 📊 GitHub Stats:
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ahmxad&layout=compact&hide_title=true&langs_count=4&theme=dark&v=4)](https://github.com/ahmxad)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/axxhmad)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1184844719130411048)
 [![Chess.com](https://img.shields.io/badge/Chess.com-%2381B64C.svg?style=flat&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/ahmxad)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fff?style=flat)](https://ahmxad.netlify.app/)
